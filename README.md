@@ -6,14 +6,16 @@ Wait for a while for the binder to launch. It generally takes 1-2 minutes to con
 
 ![Binder is launching](./images/python-github-1.png)
 
-The binder page will be automatically refreshed after successfully starting the repository. Then if you want to start learning from scratch, open the "Geo-Python" folder.
+#### The binder page will be automatically refreshed after successfully starting the repository. Then if you want to start learning from scratch, open the "Geo-Python" folder.
 
 ![Binder is launching](./images/python-github-2.png)
 
-Now open the .ipynb files one by one, according to their serial number.
+#### Now open the .ipynb files one by one, according to their serial number.
 
 ![Binder is launching](./images/python-github-3.png)
 
-Wish you all the best. Happy Learning 👍🏼😇
+#### Read all the instructions inside the notebook and start learning.
+
+Wish you all the Best 👍🏼😇
 
 [- Abhirup Basu](https://github.com/basuabhirup)
